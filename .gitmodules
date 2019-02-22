@@ -1,0 +1,4 @@
+[submodule "xmarts/modules_bazar"]
+	path = xmarts/modules_bazar
+	url = git@github.com:xmarts/modules_bazar.git
+	branch = master
